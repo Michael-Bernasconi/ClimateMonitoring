@@ -1,5 +1,5 @@
 # 🌍 Climate Monitoring
-
+---
 **Climate Monitoring** è un'applicazione finalizzata alla rilevazione e all'analisi di parametri climatici forniti da centri di monitoraggio sul territorio italiano.  
 Il sistema rende disponibili, sia a operatori ambientali sia a comuni cittadini, i dati climatici relativi alla propria zona di interesse.
 ---
